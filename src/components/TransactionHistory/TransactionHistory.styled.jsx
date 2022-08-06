@@ -24,7 +24,7 @@ export const TableRow = styled.tr`
   color: #939799;
   background-color: #fff;
 
-  :nth-child(2n + 3) {
+  :nth-child(2n) {
     background-color: #ebf1f3;
   }
 `;
